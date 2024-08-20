@@ -251,7 +251,8 @@
          border: 2px #fff solid;
          /* background:green; */
          transition : border .125s;
-         padding:3px;
+         padding:5px;
+         margin: 5px 0 5px 0;
     }
     .product-item:hover{
         border: 2px #da1a30ad solid;
