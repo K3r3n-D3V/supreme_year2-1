@@ -242,10 +242,10 @@
      }
 
     .product-item{
-         width:270px;
+         width: 270px;
          overflow-x: hidden;
          min-height:290px;
-         height:290px;
+         height:350px;
          overflow: hidden;
          cursor: pointer;
          border: 2px #fff solid;
@@ -258,10 +258,11 @@
         border: 2px #da1a30ad solid;
     }
     .product-img{
-         height: 100%;
+         height: 75%;
          width:100%;
          object-fit: contain;
          object-position: center;
+         margin-top: 20px;
     }
   
 
@@ -394,7 +395,7 @@
     .item-block-grid{
         width:100%;
         height:30px;
-        margin-bottom:5px;
+        /* margin-bottom:5px; */
     }
     .item-block-grid-1{
            height: 70%;
@@ -814,4 +815,9 @@
      .navbar-brand img {
        width:25px !important
      }
+  }
+
+
+  .wall-sticker{
+
   }
